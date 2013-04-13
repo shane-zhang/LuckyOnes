@@ -1,0 +1,11 @@
+body
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #000000;
+	font-family: tahoma, arial, helvetica, sans-serif;
+	background:url(bg.jpg) repeat-x #408cb8;
+}
+
+
+table.head .clear .logo {background:url(logo.jpg); width:207px; height:110px;}
